@@ -13,7 +13,7 @@ export default function Main() {
 
   return (
     <div className="App">
-      <h1>Ajout</h1>
+   
       <Link to="nvpr">
         <button>Nouveau</button>
       </Link>
